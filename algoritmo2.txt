@@ -1,0 +1,9 @@
+algoritmo 2
+solicite o valor da temperatura e a escala termométrica
+leia o valor e a escala
+se for dada em Celsius então = A e faça
+A * 1.8 + 32 = X
+senão se for dada em Fahrenheit então = B e faça
+(B - 32) / 1,8 = X
+calcule o valor de X
+escreva o valor de X 
