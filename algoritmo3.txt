@@ -1,0 +1,9 @@
+algoritmo 3 
+solicitar a lista de números
+leia a lista de números
+inicializar a variável soma com 0
+para cada número lista faça:
+adicione o número a variável soma
+calcular a média dividindo a variável soma pela quantidade de números 
+adicionados
+escreva o resultado da média 
