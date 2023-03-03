@@ -1,0 +1,8 @@
+algoritmo 1
+solicite dois números
+leia o primeiro número
+leia o segundo número
+iniciar a variável soma com 0
+adicionar o primeiro e segundo número a variável
+calcule o resultado da soma
+escreva o resultado da soma
